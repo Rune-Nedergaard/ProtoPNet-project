@@ -1,0 +1,6 @@
+
+saved_models/img/epoch-10/prototype-self-act65.npy
+saved_models/img/epoch-10/prototype-self-act53.npy
+*.npy
+*.png
+*.pth
